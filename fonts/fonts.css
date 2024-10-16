@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "built";
+    src: url(built_titling/built\ titling\ bd.otf)format('truetype');
+}
+@font-face {
+    font-family: "garet";
+    src: url(garet/Garet-Book.otf)format('truetype');
+}
